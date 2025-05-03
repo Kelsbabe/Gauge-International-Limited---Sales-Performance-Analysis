@@ -118,7 +118,7 @@ This analysis demonstrates how data can drive actionable decisions in retail. Gu
 
 ## Author
 
-**Ivan** – Data Analyst in training | VephlaUni | Open to collaborations  
+**Ruth** – Data Analyst in training | VephlaUni | Open to collaborations  
 [LinkedIn Profile](www.linkedin.com/in/ruth-ihuoma123)  
 
 
